@@ -11,6 +11,7 @@ delete and ban message sent by channels
 <a href="https://railway.app/new/template?template=https://github.com/BrayDenXD/AntiChannelBan&envs=BOT_TOKEN%2CAPI_ID%2CAPI_HASH%2Cparse_mode"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blackwhite?style=for-the-badge&logo=railway" width="252""/</a>
 
 ## Heroku 
+
 [![ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrayDanXD/AntiChannelBan)
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
